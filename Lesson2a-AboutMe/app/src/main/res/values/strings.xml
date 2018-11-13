@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Zeeshan Abbasi</string>
+    <string name="yellow_star">Yellow Star</string>
+
+    <string name="bio">Hi, My name is Zeeshan
+        \n\n Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
+        \n\n Ntotam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+        \nNemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit,
+        \nsed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
+        \n\nNeque porro quisquam est, qui dolorem ipsum quia dolor sit amet,
+        \nconsectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et
+        \ndolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam
+        \ncorporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
+        \n\nQuis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae
+        \nconsequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur
+    </string>
+    <string name="what_is_your_nickname">What is your nickname</string>
+    <string name="done">Done</string>
+</resources>
